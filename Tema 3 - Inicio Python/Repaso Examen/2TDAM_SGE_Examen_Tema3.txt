@@ -1,0 +1,11 @@
+4 EJERCICIOS
+
+Un ejercicio if-elif-else
+----------------------------------------------
+Ejercicio con for como en los ejercicios de la relación 2 y 3
+Condicionales y aleatorios
+-----------------------------------
+Ejercicio con un diccionario simple como en los ejercicios 4 y 5
+-------------------------------------
+Ejercicio con menu de opciones como el ejercicio 4 pero con estructuras complejas como el 6
+
